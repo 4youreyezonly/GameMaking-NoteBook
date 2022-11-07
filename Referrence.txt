@@ -1,0 +1,119 @@
+L1: Introduction
+
+L2: Project Start & Version Control
+
+Naming Conventions
+Allar's Guide: 
+-https://github.com/Allar/ue4-style-guide
+Comprehending Projects and File Structure (Videos)
+-https://learn.unrealengine.com/course/2436628
+
+PROPERTY, FUNCTION, UCLASS, USTRUCT, UENUM (Unreal Macros)
+(Unreal' Property System) 
+-https://www.unrealengine.com/en-lus/blog/unreal-property-system-reflection
+(FUNCTION Examples)
+-https://www.tomlooman.com/unreal-engine-ufunction-specifiers/
+(All Property Specifiers)
+-https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/GameplayArchitecture/Properties/
+(All Function Specifiers)
+-https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/GameplayArchitecture/Functions/
+
+
+L3:Collision & Physics
+-https://www.unrealengine.com/zh-CN/blog/collision-filtering
+
+L4: Interface & Collision Query
+
+L5: Blueprints
+Blueprint Introductions
+-https://youtu.be/EFXMW_UEDco
+Blueprint Kickstart & Essentials (Epic Games, Video Playlist)
+-https://learn.unrealengine.com/course/3537777
+-https://learn.unrealengine.com/course/2436619
+Blueprint Best Practices (Docs)
+-https://docs.unrealengine.com/en-US/Engine/Blueprints/BestPractices/index.html
+
+L6: Debugging Tools
+
+L7: UMG
+String Handling:
+-https://docs.unrealengine.com/en-US/Programming/UnrealArchitecture/StringHandling/index.html
+
+L8: Matrials
+Material Fundamentals (Video)
+-https://learn.unrealengine.com/course/3740129
+Physically Based Materials Overview
+-https://docs.unrealengine.com/en-US/Engine/Rendering/Materials/PhvsicallyBased/index.html
+'Material Inputs' Overview
+-https://docs.unrealengine.com/en-US/Engine/Rendering/Materials/MaterialInputs/index.html
+Content Examples Project
+-https://docs.unrealengine.com/en-US/Resources/ContentExamples/index.html
+
+L9: Audio
+
+L10: AI & EQS  L11: L12: L13:
+
+L14: UMG
+
+L15: Console Var
+-https://www.tomlooman.com/ue4-gameplav-framework/
+
+L16: GAS
+Official Docs: https://docs.unrealengine.com/en-US/Gameplay/GameplavAbilitySystem/index.html
+Community Docs: https://github.com/tranek/GASDocumentation // Far more detailed than official.
+Video: Getting Started With the Gameplay Ability System' (https://youtu.be/irzq6lo Y4E)
+Video: 'Using the Gameplay Ability System' (https://voutu.be/ 713CSOWKTU)
+GameplayTags(https://docs.unrealengine.com/en-US/Gameplay/Tags/index.html
+ActionRPG Sample Game (https://docs.unrealengine.com/en-US/Resources/SampleGames/ARPG/index.htm
+
+L17: FGameplayTag
+
+L18: Buff
+
+L19: Actor Replication
+Actor Replication: https://docs.unrealengine.com/en-US/Gameplav/Networking/Actors/index.iml
+Property Replication: https://docs.unrealengine.com/en-US/ Gameplay/Networking/Actors/Properties/index.utml
+PCs: https://docs.unrealengine.com/en-US/Gameplav/Networking/Actors/RPCs/index.html
+
+L20: MultiPlayer L21: L22:
+
+L23: Serializing Game
+
+L24: UMG Menu
+
+L25: Styling UMG
+
+L26: Anim BP
+
+L27: Asychronous Loading & Datat Asset & Soft Reference
+"Blueprints In-depth" (Memory & Loading Section)
+https://voutu.be/16mskTgL7kU?t=2363 (Timestamp:39:23+)
+Data Driven Gameplay Elements
+httos://docs.unrealengine.com/en-US/Gameplav/DataDriven/index.html
+Asset Manager
+https://docs.unrealengine.com/en-US/Engine/Basics/AssetsAndPackages/AssetManagement/index.html
+Data Driven Design
+https://benui.ca/unreal/data-driven-design/
+
+L28: Performance
+Blueprint Nativization
+https://docs.unrealengine.com/en-US/Engine/Blueprints/TechnicalGuide/NativizingBlueprints/index.html
+Adding Custom Stats: https://www.tomlooman.com/stat-commands-ue4/
+Docs Reference: https://docs.unrealengine.com/en-US/Engine/Performance/StatCommands/index.html
+Unreal Insights
+https://docs.unrealengine.com/en-US/Engine/Performance/Unreallnsights/index.htmil
+UE4 Performance and Profiling
+https://www.voutube.com/watch?v=hcxetY8g fs
+Overcoming Common Early Challenges in Unreal Engine
+https://www.voutube.com/watch?v=2edoacF53F0
+Blueprints In-depth (incl. Project Architecture and Relationship to C++)
+https://www.youtube.com/watch?v=iGmskTgL7kU
+Collect, Analyze, and Visualize Your Data with Unreal Insights
+https://www.voutube.com/watch?v=Rf6oNkcGmX4
+
+L29: Wrapping Up
+
+
+
+
+
